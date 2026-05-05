@@ -1,2 +1,2 @@
-# AI – Current & Future Trends
+# AI – The Current & Future Trends
 The current and future AI market trends and the human adaptability to new technology.
